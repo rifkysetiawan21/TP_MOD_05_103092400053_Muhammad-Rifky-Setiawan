@@ -14,3 +14,5 @@
     bg-light digunakan untuk memberikan warna latar terang
     img-fluid digunakan untuk membuat gambar responsif agar menyesuaikan ukuran layar
 5. Class img-fluid membuat gambar menyesuaikan lebar wadahnya sehingga gambar dapat ditampilkan dengan baik pada berbagai ukuran layar.
+6. Membuat Tampilan dengan Bootstrap
+<img width="909" height="464" alt="image" src="https://github.com/user-attachments/assets/8199437a-088b-4991-89f7-20645dabaa71" />
