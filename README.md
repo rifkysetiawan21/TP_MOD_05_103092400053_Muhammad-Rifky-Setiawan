@@ -1,8 +1,8 @@
 # TP_MOD_05_103092400053_Muhammad-Rifky-Setiawan
 
 1. Bootstrap adalah framework CSS yang digunakan untuk mempermudah pembuatan tampilan website. Bootstrap menyediakan berbagai komponen siap pakai sehingga website lebih mudah dibuat dan tampilannya bisa menyesuaikan ukuran layar.
-2. Menggunakan CDN dengan menambahkan link Bootstrap ke HTML.
-    Mengunduh file Bootstrap dan menyimpannya di folder proyek.
+2. Menggunakan CDN dengan menambahkan link Bootstrap ke HTML,
+    Mengunduh file Bootstrap dan menyimpannya di folder proyek dan
     Menggunakan npm melalui terminal
 3. Grid adalah sistem tata letak Bootstrap yang digunakan untuk mengatur posisi dan lebar elemen pada halaman website. Sistem grid Bootstrap menggunakan 12 kolom dan biasanya disusun dengan class container, row, dan col
 4. class Bootstrap :
